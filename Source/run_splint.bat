@@ -1,0 +1,1 @@
+splint -D__AVR_ATmega1284P__ -IC:\WinAVR-20100110\avr\include -larchpath c:\WinAVR-20100110\share\splint\lib -lclimportdir c:\WinAVR-20100110\share\splint\imports -tmpdir tmp  -unrecogcomments main.c
